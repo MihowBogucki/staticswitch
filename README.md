@@ -1,1 +1,3 @@
 # staticswitch
+
+The static switch project is an idea to build in a service provider switcher dependant on time outs from the primary provider. If the primary provider times out after a certain amount of time the program will switch to the second provider. The program will check the primary provider to see if a connection to the primary provider is restored then the program will switch back to the main provider. 
