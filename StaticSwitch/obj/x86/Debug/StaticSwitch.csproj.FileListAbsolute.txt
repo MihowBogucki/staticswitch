@@ -1,0 +1,5 @@
+/Users/mihowbogucki/Documents/C# Projects/StaticSwitch/StaticSwitch/bin/Debug/StaticSwitch.exe
+/Users/mihowbogucki/Documents/C# Projects/StaticSwitch/StaticSwitch/bin/Debug/StaticSwitch.pdb
+/Users/mihowbogucki/Documents/C# Projects/StaticSwitch/StaticSwitch/obj/x86/Debug/StaticSwitch.csproj.CoreCompileInputs.cache
+/Users/mihowbogucki/Documents/C# Projects/StaticSwitch/StaticSwitch/obj/x86/Debug/StaticSwitch.exe
+/Users/mihowbogucki/Documents/C# Projects/StaticSwitch/StaticSwitch/obj/x86/Debug/StaticSwitch.pdb
